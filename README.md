@@ -39,7 +39,7 @@
 1.  Windows搜索“任务计划程序”
 2.  任务计划程序库（本地）→任务计划程序
 3.  找到以下四个任务：
-    - NJwDriverlpdatecheckDaily 
+    - NvDriverUpdatecheckDaily 
     - NVIDIA GeForce Experience SelfUpdate_
     - NvNodeLauncher
     - NVProfileUpdaterDaily
@@ -100,7 +100,7 @@ The second-to-last version, reported to be more stable than the final release.
 1.  Search for **Task Scheduler** in Windows and open it.  
 2.  Navigate to **Task Scheduler Library** → **Task Scheduler (Local)**  
 3.  Locate these five tasks:  
-    - `NJwDriverUpdatecheckDaily`  
+    - `NvDriverUpdatecheckDaily`  
     - `NVIDIA GeForce Experience SelfUpdate_`  
     - `NvNodeLauncher`  
     - `NVProfileUpdaterDaily`  
